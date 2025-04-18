@@ -1,2 +1,2 @@
-<img src="C:\Users\gabri\Downloads" alt="">
+# <img src="C:\Users\gabri\Downloads" alt="">
 # Site de Receitas
