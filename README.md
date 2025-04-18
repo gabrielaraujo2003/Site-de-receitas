@@ -1,4 +1,4 @@
 # Site de Receitas
 
 # Preview
-<img src='previa.png'></img>
+<img src='assets/previaMR.png'></img>
