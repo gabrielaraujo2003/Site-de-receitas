@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 50px;
+  background: #fff;
+  font-size: 14px;
+}
+
+.contato a {
+  color: #3498db;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.icones a {
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+.assunto {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: #fff;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #7f8c8d;
+  font-size: 16px;
+}
+
+.compras {
+  background: #3498db;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.barra-de-baixo {
+  height: 5px;
+  background-color: #3498db;
+  opacity: 0.5;
+}
+
+.container {
+  background-image: url(./Imagens/fundo/Foto\ de\ fundo\ 2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: last baseline;
+  height: 400px;
+  padding-right: 3%;
+  opacity: 0.8;
+}
+
+.container p {
+  max-width: 40%;
+  text-align: justify;
+  color: rgb(0, 0, 0);
+}
+
+.container h2 {
+  color: #195882;
+  padding-bottom: 20px;
+}
+
+.empresa {
+  margin: 0 4%;
+  padding-top: 3%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 14%;
+  padding-bottom: 3%;
+}
+
+.segundo-menu {
+  list-style: none;
+  text-decoration: none;
+  line-height: 1.8;
+}
+
+.segundo-menu a{
+  text-decoration: none;
+  color: #7f8c8d;
+}
+
+.rodape {
+  background-color: #195882;
+  text-align: center;
+  padding: 2% 3%;
+
+}
